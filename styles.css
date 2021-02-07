@@ -1,0 +1,26 @@
+body{
+    background-color: #161027 !important;
+    
+}
+
+#id{
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;    
+}
+.centern{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.font{
+    background: #24C6DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-size: 7rem;
+-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
